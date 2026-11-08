@@ -64,7 +64,7 @@ Allow camera access if macOS asks for permission.
 - Press `q` or `Esc` to close the application.
 - Press `s` to save a screenshot.
 - Use `python app.py --camera 1` to try another camera.
-- Run `python app.py --self-test` to test the classification logic without opening the webcam.
+- Run `python app.py --self-test` to test the classification logic without opening the webcam.fff
 
 ## Project Structure
 
@@ -75,4 +75,4 @@ Mood-Gesture-AI/
 ├── README.md
 └── .gitignore
 ```
-00
+
