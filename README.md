@@ -75,4 +75,3 @@ Mood-Gesture-AI/
 ├── README.md
 └── .gitignore
 ```
-yugbhuavakll
