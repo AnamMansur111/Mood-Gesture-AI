@@ -75,5 +75,3 @@ Mood-Gesture-AI/
 ├── README.md
 └── .gitignore
 ```
-ii
-j
