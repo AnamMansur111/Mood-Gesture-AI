@@ -36,6 +36,7 @@ The project uses predefined rules to classify expressions and gestures rather th
 
 ## How to Run
 
+1.⁠ ⁠Clone or download this repository.
 
 
 ```bash
