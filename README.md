@@ -38,7 +38,7 @@ The project uses predefined rules to classify expressions and gestures rather th
 
 1.⁠ ⁠Clone or download this repository.
 2.⁠ ⁠Open the project folder in your terminal.
-
+3.⁠ ⁠Create and activate a virtual environment:
 
 ```bash
 python3 -m venv venv
