@@ -8,7 +8,8 @@ Mood & Gesture AI is a Python project that uses a webcam to detect facial expres
 - Happy
 - Sad
 - Angry
-
+- Surprised
+- Neutral
 
 **Hand gestures**
 - Open palm
