@@ -1,6 +1,6 @@
 # Mood & Gesture AI
 
-Mood & Gesture AI is a Python project that uses a webcam to detect facial expressions and hand gestures in real time. It uses OpenCV and MediaPipe to track facial and hand landmarks and identifies expressions and gestures based on their positions.
+Mood & Gesture AI is a Python project that uses a webcam to detect facial expressions and hand gestures in real time. It uses OpenCV and MediaPipe to track facial and hand  expressions and gestures based on their positions.
 
 ## Features
 
